@@ -7,6 +7,7 @@ https://elmas3.github.io/mao-semina
 魔王教授
 エルマス
 わかば
+俺
 
 # ディレクトリ構成
 ```
